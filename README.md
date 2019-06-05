@@ -9,5 +9,8 @@ The code is properly structured, well commented and symbolic variables used allo
 
 Please also do cite my work if you like it :-)
 
-Dataset Citation
+# Dataset Brief
+This dataset was created to automate breast cancer detection from digitized images of a fine needle aspirate (FNA). An FNA is a biospys procedure conducted to extract cells within a needle from a detected mass within a breast. The FNA cells are then closely investigated in order to diagnose if the mass is benign or cancerous. The data consists of data extracted from a digitized FNA image taken from 569 women whom each was detected with a mass within their breasts. The data has a total of 30 features which describe the characteristics of the cell nuclei present in the image. Each data sample is then placed as either malignant or benign.
+
+Dataset Citation and Source
 Dr. William H. Wolberg, W. Nick Street and Olvi L. Mangasarian (1995). UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)]. Irvine, CA: University of California, School of Information and Computer Science. 
