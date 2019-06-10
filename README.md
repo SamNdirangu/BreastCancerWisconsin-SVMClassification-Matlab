@@ -1,4 +1,4 @@
-# BreastCancerWisconsin-SVM-Matlab
+# Classification of the Breast Cancer Wisconsin with SVMs using Matlab
 This repository features an SVM classifier implemented using MATLAB for the famous Breast Cancer Wisconsin Dataset. Accuracy achieved 98.5%
 
 I made this for students new to machine learning and the MATLAB software as simple introduction. The code has been writen using the Live Script functionality in MATLAB and should work with any recent MATLAB versions
